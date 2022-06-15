@@ -1,0 +1,152 @@
+.top-container{
+    background-color: #e0ebe8;
+    
+}
+body {
+    margin: 0;
+    text-align: center;
+    color: #40514e;
+}
+h2 {
+    
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    font-weight: normal;
+    color: #66BFBF;
+    font-weight: bold;
+
+}
+h1 {
+    margin: 50px auto 0 auto;
+    font-family: 'Dancing Script', cursive;;
+    font-size: 5.62rem;
+    color: #66BFBF;
+}
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+    font-size: 1.5rem;
+    
+   
+}
+.top-container {
+    padding-top: 100px;
+    position: relative;
+}
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 250px;
+
+}
+a {
+    color:#11999E;
+}
+
+a:hover {
+    color: #EAF6F6;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 1.8;
+}
+.chillies {
+    margin-left: 30px;
+    float: right;
+   width: 25%;
+}
+
+hr {
+    border-color: grey;
+    border-style: dotted none none;
+    border-width: 5px;
+    width: 5%;
+    margin: 80px auto;
+}
+
+.profile {
+    width: 40%;
+    margin: 50px auto ;
+    text-align: center;
+
+}
+
+.comp {
+    margin-right: 30px;
+    float: left;
+    width: 25%;
+}
+
+.contact-me {
+    width: 40%;
+    margin: 75px auto;
+    line-height: 2;
+    text-align: center;
+}
+
+.btn {
+    display: inline-block;
+    width: 150px;
+    border-radius: 8px;
+    height: 35px;
+    text-decoration: none;
+    color: white;
+    padding-top: 1.5px;
+    margin-top: 45px;
+    background: linear-gradient(#11cdd4, #11999e);
+    
+}
+.btn:hover {
+    background: linear-gradient(#30e3cb, #2bc4ad);
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    height: 100px;
+}
+
+.footer-link {
+    margin: 30px;
+    columns: #11999E;
+    text-decoration: none;
+}
+
+.pp {
+    font-size: 0.75rem;
+    margin-top: 30px;
+    color: #EAF6F6;
+}
+
+.red {
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    left: 400px;
+    top: 842px;
+   
+}
+.blue {
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    left: 200px;
+    top: 642px;
+   
+}
+.yellow {
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+  
+}
